@@ -1,3 +1,10 @@
-let a = 221;
-let b = a - 5;
-console.log(b);
+const ninaInfo = {
+  name: "Nina",
+  age: 23,
+  gender: "Female",
+  isPretty: true,
+  favBands: ["oasis", "blur", "placebo"],
+  favFood: ["spaghetti", "whopper"],
+};
+
+console.log(ninaInfo.favBands);
