@@ -1,10 +1,3 @@
-const ninaInfo = {
-  name: "Nina",
-  age: 23,
-  gender: "Female",
-  isPretty: true,
-  favBands: ["oasis", "blur", "placebo"],
-  favFood: ["spaghetti", "whopper"],
-};
-
-console.log(ninaInfo.favBands);
+const title = document.querySelector("#title");
+title.innerHTML = "Hi from JS!";
+title.style.color = "lightgreen";
