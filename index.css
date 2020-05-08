@@ -1,5 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Pacifico&display=swap");
+
 body {
-  background-color: coral;
+  background-color: whitesmoke;
 }
 
 .btn {
@@ -8,5 +10,5 @@ body {
 }
 
 h1 {
-  color: #a29bfe;
+  color: #24695e;
 }
